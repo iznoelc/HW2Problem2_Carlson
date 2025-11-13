@@ -16,4 +16,6 @@ Composite pattern was used in order to work with products and categories through
 - Dr. Roy's Office Hours
 
 ### Output
-See [output screenshot](https://github.com/iznoelc/HW2Problem1_Carlson/blob/9759082105531a1c37292aa6de6ed95b028bcbe5/OutputScreenshot.PNG)
+See [output screenshot](https://github.com/iznoelc/HW2Problem2_Carlson/blob/main/OutputScreenshot.PNG)
+See [output screenshot](https://github.com/iznoelc/HW2Problem2_Carlson/blob/main/OutputScreenshot1.PNG)
+
