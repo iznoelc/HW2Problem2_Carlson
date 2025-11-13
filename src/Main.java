@@ -15,6 +15,7 @@ public class Main {
 
         // then add the whole electronics category to the black friday deals category
         blackFridayDeals.add(electronics);
+        blackFridayDeals.display();
 
         // create a black friday deals (subject)
         BlackFridayDeals subject = new BlackFridayDeals();
